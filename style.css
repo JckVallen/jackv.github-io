@@ -1,0 +1,28 @@
+#jumbotron{
+    background-color: rgba(222, 223, 243, 0.589);
+}
+
+.img-thumbnail{
+    border-radius: 50% !important;
+}
+
+#portofolio{
+    background-color: rgba(222, 223, 243, 0.589);
+}
+
+/* .carousel-item{
+    padding: 160px;
+} */
+.footer{
+    background-color: rgba(126, 127, 139, 0.26);
+}
+
+.contact{
+    padding-top: 0;
+    padding-bottom: 70px;
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
